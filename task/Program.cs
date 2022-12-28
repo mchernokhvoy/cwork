@@ -1,5 +1,6 @@
 ﻿// TASK
 
+
 void RealeseArray(string[] array)
 {
     string newArray = string.Empty;
