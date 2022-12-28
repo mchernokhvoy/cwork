@@ -1,4 +1,6 @@
-﻿void RealeseArray(string[] array)
+﻿// TASK
+
+void RealeseArray(string[] array)
 {
     string newArray = string.Empty;
     for (int i = 0; i < array.Length; i++)
