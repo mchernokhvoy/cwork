@@ -10,7 +10,7 @@
                 newArray += " " + array[i];
     }
     string[] resultArray = newArray.Split(" ").ToArray();
-    Console.WriteLine($"[{string.Join(", ", resultArray]");
+    Console.WriteLine($"[{string.Join(", ", resultArray)}]");
 }
 
 Console.Clear();
